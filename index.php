@@ -113,7 +113,7 @@
                 <div class="row gaptp">
                     <div class="video-btn col-xs-12 col-sm-6 col-md-6"><a class="watch-video" data-toggle="modal" data-target="#myModal" href=""><span class="glyphicon glyphicon-play-circle"></span> Watch Our Video</a></div>
                     <div class="down-btn12 col-xs-12 col-sm-6 col-md-6">
-                        <a class="down-btn" href="#"><img src="img/ios-coming-soon.png"></a>
+                        <a class="down-btn" href="#"><img src="img/ios-download.png"></a>
                     </div>
                 </div>
                 <!-- Rotate Text separated by the commas  -->
