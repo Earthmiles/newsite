@@ -534,7 +534,7 @@
 
 				<div class="col-md-7 col-md-offset-1">
 
-					<p class="copyright" >&copy; GMS Partners Ltd. All Right Reserved. Earthmiles is a registered trademark of GMS Partners Ltd</p>
+					<p class="copyright" >&copy; GMS Partners Ltd. All Rights Reserved. Earthmiles is a registered trademark of GMS Partners Ltd</p>
 				</div>
 				<!-- <div class="col-lg-6 col-sm-6">
 					<p class="copyright">Made with <i class="fa fa-heart"></i> by <a href="http://www.simplesphere.net">Simplesphere</a></p>

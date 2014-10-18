@@ -113,7 +113,7 @@
                 <div class="row gaptp">
                     <div class="video-btn col-xs-12 col-sm-6 col-md-6"><a class="watch-video" data-toggle="modal" data-target="#myModal" href=""><span class="glyphicon glyphicon-play-circle"></span> Watch Our Video</a></div>
                     <div class="down-btn12 col-xs-12 col-sm-6 col-md-6">
-                        <a class="down-btn" href="#"><img src="img/ios-download.png"></a>
+                        <a class="down-btn" href="http://itunes.apple.com/gb/app/earthmiles/id926440987?mt=8"><img src="img/ios-download.png"></a>
                     </div>
                 </div>
                 <!-- Rotate Text separated by the commas  -->
@@ -128,7 +128,7 @@
                 <div class="row gaptp">
                     <div class="video-btn col-xs-12 col-sm-6 col-md-6"><a class="watch-video" data-toggle="modal" data-target="#myModal" href=""><span class="glyphicon glyphicon-play-circle"></span> Watch Our Video</a></div>
                     <div class="down-btn12 col-xs-12 col-sm-6 col-md-6">
-                        <a class="down-btn" href="#"><img src="img/ios-coming-soon.png"></a>
+                        <a class="down-btn" href="http://itunes.apple.com/gb/app/earthmiles/id926440987?mt=8"><img src="img/ios-download.png"></a>
                     </div>
                 </div>
             </div>
@@ -660,7 +660,7 @@ else
 
                 <div class="col-md-7 col-md-offset-1">
 
-                    <p class="copyright" >&copy; GMS Partners Ltd. All Right Reserved. Earthmiles is a registered trademark of GMS Partners Ltd</p>
+                    <p class="copyright" >&copy; GMS Partners Ltd. All Rights Reserved. Earthmiles is a registered trademark of GMS Partners Ltd</p>
                 </div>
                 <!-- <div class="col-lg-6 col-sm-6">
                     <p class="copyright">Made with <i class="fa fa-heart"></i> by <a href="http://www.simplesphere.net">Simplesphere</a></p>
