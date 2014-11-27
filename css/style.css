@@ -703,3 +703,34 @@ a.scroll-up:focus { -moz-transform: scale(1.1, 1.1); -ms-transform: scale(1.1, 1
     margin-bottom: 10px;
 }
 
+.mediapartners img{
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:50px;
+}
+.mediaquote{
+    margin-top: 50px;
+    text-align: center;
+    font-style: italic;
+    margin-left:20px;
+    margin-right:20px;
+}
+
+
+.associations img{
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:50px;
+}
+.associationsquote{
+    margin-top: 50px;
+    text-align: center;
+    font-style: italic;
+    margin-left:20px;
+    margin-right:20px;
+
+}
