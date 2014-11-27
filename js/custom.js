@@ -8,7 +8,7 @@ $(document).ready(function() {
 	});
 	
 	$('.carousel').carousel({
-		interval: 4000, // Carousel Slide Transition Time
+		interval: 1000, // Carousel Slide Transition Time
 		pause: 'hover' // Carousel slider pause on mouse hover
 	})
 	
