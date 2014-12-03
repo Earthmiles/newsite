@@ -118,7 +118,7 @@
                         <a class="down-btn" href="http://app.appsflyer.com/id926440987?pid=website&c=mainpage"><img src="img/ios-download.png"></a>
                     </div>
                     <div class="down-btn12 col-xs-12 col-sm-4 col-md-4">
-                        <a class="down-btn" href="http://www.earthmiles.co.uk/"><img src="img/google-play-soon.png"></a>
+                        <a class="down-btn" href="http://www.earthmiles.co.uk/"><img src="img/coming-soon-to-google-play-store.png"></a>
                     </div>
                 </div>
                 <!-- Rotate Text separated by the commas  -->
@@ -136,7 +136,7 @@
                         <a class="down-btn" href="http://itunes.apple.com/gb/app/earthmiles/id926440987?mt=8"><img src="img/ios-download.png"></a>
                     </div>
                     <div class="down-btn12 col-xs-12 col-sm-4 col-md-4">
-                        <a class="down-btn" href="http://www.earthmiles.co.uk/"><img src="img/google-play-soon.png"></a>
+                        <a class="down-btn" href="http://www.earthmiles.co.uk/"><img src="img/coming-soon-to-google-play-store.png"></a>
                     </div>
                 </div>
             </div>
@@ -266,11 +266,16 @@
                     <li><a href="http://www.purifynecleanse.com/" target="_blank"><img src="img/partners/purifyne_cleanse.png"></a></li>
                     <li><a href="http://www.planetorganic.com/" target="_blank"><img src="img/partners/planet_organic.png"></a></li>
                     <li><a href="http://www.chilondon.com/" target="_blank"><img src="img/partners/chi.png"></a></li>
-                    <li><a href="http://soulmatefood.com/" target="_blank"><img src="img/partners/soulmate_food.png"></a></li>
+                    <!--<li><a href="http://soulmatefood.com/" target="_blank"><img src="img/partners/soulmate_food.png"></a></li>-->
                     <li><a href="http://www.clubbercise.com/" target="_blank"><img src="img/partners/clubbexercise.png"></a></li>
                     <li><a href="http://www.chirunning.com/" target="_blank"><img src="img/partners/chirunning.png"></a></li>
                     <li><a href="http://www.cyclingveg.com/" target="_blank"><img src="img/partners/morefit.png"></a></li>
                     <li><a href="http://www.juicetonic.com/" target="_blank"><img src="img/partners/juicetonic.png"></a></li>
+                    <li><a href="http://www.runnersneed.com/" target="_blank"><img src="img/partners/runners-need1.png"></a></li>
+                    <li><a href="http://www.terra-nova.co.uk/" target="_blank"><img src="img/partners/terranova.png"></a></li>
+                    <li><a href="http://www.londoninsaniacs.co.uk/" target="_blank"><img src="img/partners/insaniacs.png"></a></li>
+                    <li><a href="http://pureyogazone.com/" target="_blank"><img src="img/partners/purezone.png"></a></li>
+
 
 
                     <!--<li><a href="http://www.pineapple.uk.com/" target="_blank"><img src="img/partners/pineapple.png"></a></li>-->
@@ -303,60 +308,98 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-xs-12 col-sm-6 col-md-3">
-                <!-- Start Portfolio Item -->
-                <div class = "associations">
-                    <a href="http://www.nhs.uk/Pages/HomePage.aspx" target="_blank">
-                        <img src="img/associations/NHS_choices_logo.jpg" alt="" title="" />
-                    </a>
-                    <div class="associationsquote hidden-xs">Earthmiles has been reviewed by the NHS to ensure it is safe and trusted to manage your health and is listed in the NHS Choices Health Apps Library</div>
-                </div>
-                <!-- End Portfolio Item  -->
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-3">
+            <!--<div class="col-xs-12 col-sm-6 col-md-3">-->
+                <!--&lt;!&ndash; Start Portfolio Item &ndash;&gt;-->
+                <!--<div class = "associations">-->
+                    <!--<a href="http://www.nhs.uk/Pages/HomePage.aspx" target="_blank">-->
+                        <!--<img src="img/associations/NHS_choices_logo.jpg" alt="" title="" />-->
+                    <!--</a>-->
+                <!--</div>-->
+                <!--&lt;!&ndash; End Portfolio Item  &ndash;&gt;-->
+            <!--</div>-->
+            <div class="col-xs-12 col-sm-6 col-md-6">
                 <!-- Start Portfolio Item -->
                 <div class = "associations">
                     <a href="http://www.slowfood.org.uk/" target="_blank">
                         <img src="img/associations/slow-food-uk.jpeg" alt="" title="" />
                     </a>
-                    <div class="associationsquote hidden-xs">Earthmiles has been reviewed by the NHS to ensure it is safe and trusted to manage your health and is listed in the NHS Choices Health Apps Library</div>
+
                 </div>
                 <!-- End Portfolio Item  -->
             </div>
-            <div class="col-xs-12 col-sm-6 col-md-3">
+            <div class="col-xs-12 col-sm-6 col-md-6">
                 <!-- Start Portfolio Item -->
                 <div class = "associations">
                     <a href="http://www.ucl.ac.uk/advances/advances-programmes/ucl-decide-business" target="_blank">
                         <img src="img/associations/UCL.png" alt="" title="" />
                     </a>
-                    <div class="associationsquote hidden-xs">Earthmiles is a member of the UCL Advances programme, UCL's centre for entrepreneurship and business interaction. UCL Advances provides entrepreneurs and startups support to help them start, build, and grow their business.</div>
+
                 </div>
                 <!-- End Portfolio Item  -->
             </div>
 
-            <div class="col-xs-12 col-sm-6 col-md-3">
-                <!-- Start Portfolio Item -->
-                <div class = "associations">
-                    <a href="http://www.wcrf-uk.org/" target="_blank">
-                        <img src="img/associations/WCRF-Logo-Artwork_positive_web.png" alt="" title="" />
-                    </a>
-                    <div class="associationsquote hidden-xs">Earthmiles is a member of the UCL Advances programme, UCL's centre for entrepreneurship and business interaction. UCL Advances provides entrepreneurs and startups support to help them start, build, and grow their business.</div>
-                </div>
-                <!-- End Portfolio Item  -->
-            </div>
+            <!--<div class="col-xs-12 col-sm-6 col-md-3">-->
+                <!--&lt;!&ndash; Start Portfolio Item &ndash;&gt;-->
+                <!--<div class = "associations">-->
+                    <!--<a href="http://www.wcrf-uk.org/" target="_blank">-->
+                        <!--<img src="img/associations/WCRF-Logo-Artwork_positive_web.png" alt="" title="" />-->
+                    <!--</a>-->
+
+                <!--</div>-->
+                <!--&lt;!&ndash; End Portfolio Item  &ndash;&gt;-->
+            <!--</div>-->
+<!--
             <div class="col-xs-12 col-sm-6 col-md-3 col-sm-offset-3 col-md-offset-5">
-                <!-- Start Portfolio Item -->
+                &lt;!&ndash; Start Portfolio Item &ndash;&gt;
                 <div class = "associations">
                     <a href="http://www.runnersneed.com/" target="_blank">
-                        <img src="img/associations/RunnersNeed.JPG" alt="" title="" />
+                        <img src="img/associations/runners-need.png" alt="" title="" />
                     </a>
                     <div class="associationsquote hidden-xs">Earthmiles is a member</div>
                 </div>
+                &lt;!&ndash; End Portfolio Item  &ndash;&gt;
+            </div>
+-->
+        <!--Association Descriptions-->
+        </div>
+        <div class="row">
+            <!--<div class="col-xs-12 col-sm-6 col-md-3">-->
+                <!--&lt;!&ndash; Start Portfolio Item &ndash;&gt;-->
+                <!--<div class="associations">-->
+                    <!--<div class="associationsquote hidden-xs">We are working with NHS Choices to ensure that Earthmiles-->
+                        <!--is safe for your health and well-being-->
+                    <!--</div>-->
+                <!--</div>-->
+                <!--&lt;!&ndash; End Portfolio Item  &ndash;&gt;-->
+            <!--</div>-->
+            <div class="col-xs-12 col-sm-6 col-md-6">
+                <!-- Start Portfolio Item -->
+                <div class="associations">
+                    <div class="associationsquote hidden-xs">
+                        We have been endorsed by Slow Food UK as a venture supporting their work in the authenticity of food
+                    </div>
+                </div>
+                <!-- End Portfolio Item  -->
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-6">
+                <!-- Start Portfolio Item -->
+                <div class="associations">
+                    <div class="associationsquote hidden-xs">We are a member of the UCL Advances Programme, UCL's centre for entrepreneurship and business interaction
+
+                    </div>
+                </div>
                 <!-- End Portfolio Item  -->
             </div>
 
-
-
+            <!--<div class="col-xs-12 col-sm-6 col-md-3">-->
+                <!--&lt;!&ndash; Start Portfolio Item &ndash;&gt;-->
+                <!--<div class="associations">-->
+                    <!--<div class="associationsquote hidden-xs">We are working with World Cancer Research Fund to raise-->
+                        <!--awareness of life-style related cancer prevention-->
+                    <!--</div>-->
+                <!--</div>-->
+                <!--&lt;!&ndash; End Portfolio Item  &ndash;&gt;-->
+            <!--</div>-->
 
         </div>
 
@@ -431,7 +474,7 @@
             <div class="col-lg-12">
                 <div class="headline">
                     <h1 class="section-title">In the Press</h1>
-                    <p class="section-description">Loved by various iconic health and fitness publications.</p>
+                    <p class="section-description">Loved by iconic health and wellness publications</p>
                 </div>
             </div>
         </div>
@@ -448,7 +491,7 @@
                                         <a href="http://www.vogue.co.uk/beauty/2014/10/29/calgary-avansino-healthy-and-motivational-apps" target="_blank">
                                             <img class="" src="img/media/vogue-logo.gif" alt="" title="" /><!-- Testimonial Image  -->
                                         </a>
-                                        <p>Featured App : To Inspire A Healthy Life, October 2014</p><!-- Tesimonial  -->
+                                        <p>Featured as an app to inspire a healthy life</p><!-- Tesimonial  -->
                                         <small>Calgary Avansino</small><!-- Testimonial Author  -->
                                     </div>
                                 </div>
@@ -460,7 +503,7 @@
                                 <div class="col-lg-12">
                                     <div class="testimonial-inner">
                                         <img class="" src="img/media/metro.jpg" alt="" title="" />
-                                        <p>Get Fit and Reap the Rewards</p>
+                                        <p>Get fit and reap the rewards</p>
                                         <small>The Hot List</small>
                                     </div>
                                 </div>
@@ -471,7 +514,7 @@
                                 <div class="col-lg-12">
                                     <div class="testimonial-inner">
                                         <a href="http://www.healthista.com/body/new-fitness-app-rewards-workouts/" target="_blank">
-                                            <img class="" src="img/media/healthista.jpg" alt="" title="" />
+                                            <img class="" src="img/media/healthista.png" alt="" title="" />
                                         </a>
                                         <p>..now there’s a new app that tracks your fitness and gives you rewards for it.</p>
                                         <small></small>

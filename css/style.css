@@ -356,7 +356,8 @@ a.scroll-up:focus { -moz-transform: scale(1.1, 1.1); -ms-transform: scale(1.1, 1
     text-align: left;
 }.video-btn > a {
     color: #e1e1e1;
-    font-size: 30px;
+    font-size: 15px;        /* som changed from 25px to look good on gj's pc */
+
     font-weight: bold;
 }.gaptp {
 	margin-top: 10%;
@@ -733,7 +734,7 @@ a.scroll-up:focus { -moz-transform: scale(1.1, 1.1); -ms-transform: scale(1.1, 1
 
 @media only screen and (max-width: 520px) {
     .down-btn > img {
-        width: 60% !important; /*som changed to 80 to make look bigger*/
+        width: 50% !important; /*som changed to 80 to make look bigger*/
     }
 
     .down-btn12 {
@@ -910,6 +911,7 @@ a.scroll-up:focus { -moz-transform: scale(1.1, 1.1); -ms-transform: scale(1.1, 1
 }
 
 
+
 .associations img{
 
     width: 150px;
@@ -918,6 +920,17 @@ a.scroll-up:focus { -moz-transform: scale(1.1, 1.1); -ms-transform: scale(1.1, 1
     margin-right: auto;
     margin-top:50px;
 }
+@media only screen and (max-width: 520px) {
+    .associations img{
+
+        width: 120px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top:40px;
+    }
+}
+
 .associationsquote{
     margin-top: 50px;
     text-align: center;
@@ -928,8 +941,14 @@ a.scroll-up:focus { -moz-transform: scale(1.1, 1.1); -ms-transform: scale(1.1, 1
 }
 
 .testimonial-inner img {
-    width: 300px;
-    height:75px;
+    width: 240px;
+    height:60px;
+}
+@media only screen and (max-width: 520px) {
+    .testimonial-inner img {
+        width: 140px;
+        height:35px;
+    }
 }
 
 
