@@ -468,7 +468,7 @@
     </div>
 </section>-->
 
-<section id="testimonials" class="section testimonial-bg cover">
+<section id="press" class="section testimonial-bg cover">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
