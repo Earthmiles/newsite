@@ -75,6 +75,7 @@
                     <li><a href="#app">App</a></li>
                     <li><a href="#partners">Partners</a></li>
                     <li><a href="#associationspartners">Associations</a></li>
+                    <li><a href="#blog">Blog</a></li>
                     <li><a href="#press">Press</a></li>
                     <li><a href="#services">About</a></li>
                     <li><a href="#contact">Contact</a></li>
@@ -270,11 +271,21 @@
                     <li><a href="http://www.clubbercise.com/" target="_blank"><img src="img/partners/clubbexercise.png"></a></li>
                     <li><a href="http://www.chirunning.com/" target="_blank"><img src="img/partners/chirunning.png"></a></li>
                     <li><a href="http://www.cyclingveg.com/" target="_blank"><img src="img/partners/morefit.png"></a></li>
-                    <li><a href="http://www.juicetonic.com/" target="_blank"><img src="img/partners/juicetonic.png"></a></li>
+                    <!--<li><a href="http://www.juicetonic.com/" target="_blank"><img src="img/partners/juicetonic.png"></a></li>-->
                     <li><a href="http://www.runnersneed.com/" target="_blank"><img src="img/partners/runners-need1.png"></a></li>
                     <li><a href="http://www.terra-nova.co.uk/" target="_blank"><img src="img/partners/terranova.png"></a></li>
                     <li><a href="http://www.londoninsaniacs.co.uk/" target="_blank"><img src="img/partners/insaniacs.png"></a></li>
-                    <li><a href="http://pureyogazone.com/" target="_blank"><img src="img/partners/purezone.png"></a></li>
+                    <!--<li><a href="http://pureyogazone.com/" target="_blank"><img src="img/partners/purezone.png"></a></li>-->
+                    <li><a href="http://www.cyclingveg.com/" target="_blank"><img src="img/partners/cyclingveg.png"></a></li>
+                    <li><a href="http://www.fitnessfoodscompany.co.uk/" target="_blank"><img src="img/partners/fitnessfoodsco.png"></a></li>
+                    <li><a href="http://www.finnberry.co.uk/" target="_blank"><img src="img/partners/finnberry.png"></a></li>
+                    <li><a href="http://www.polar.com/" target="_blank"><img src="img/partners/polar.png"></a></li>
+                    <li><a href="http://lifeboxfood.com/" target="_blank"><img src="img/partners/lifebox.png"></a></li>
+                    <li><a href="http://www.rebel-kitchen.com/" target="_blank"><img src="img/partners/rebelkitchen.png"></a></li>
+                    <li><a href="http://www.edgecycle.co.uk/" target="_blank"><img src="img/partners/edgecycle.png"></a></li>
+                    <li><a href="http://www.igniterhive.com/" target="_blank"><img src="img/partners/igniterhive.png"></a></li>
+                    <li><a href="http://thatgirllondon.com/" target="_blank"><img src="img/partners/thatgirl.png"></a></li>
+                    <li><a href="http://sosrehydrate.com/" target="_blank"><img src="img/partners/sosrehydrate.png"></a></li>
 
 
 
@@ -403,10 +414,125 @@
 
         </div>
 
+        <div class="row">
+            <!--<div class="col-xs-12 col-sm-6 col-md-3">-->
+                <!--&lt;!&ndash; Start Portfolio Item &ndash;&gt;-->
+                <!--<div class = "associations">-->
+                    <!--<a href="http://www.nhs.uk/Pages/HomePage.aspx" target="_blank">-->
+                        <!--<img src="img/associations/NHS_choices_logo.jpg" alt="" title="" />-->
+                    <!--</a>-->
+                <!--</div>-->
+                <!--&lt;!&ndash; End Portfolio Item  &ndash;&gt;-->
+            <!--</div>-->
+            <div class="col-xs-12 col-sm-6 col-md-6">
+                <!-- Start Portfolio Item -->
+                <div class = "associations">
+                    <a href="http://www.slowfood.org.uk/" target="_blank">
+                        <img src="img/associations/NHS_choices.jpg" alt="" title="" />
+                    </a>
+
+                </div>
+                <!-- End Portfolio Item  -->
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-6">
+                <!-- Start Portfolio Item -->
+                <div class = "associations">
+                    <a href="http://www.ucl.ac.uk/advances/advances-programmes/ucl-decide-business" target="_blank">
+                        <img src="img/associations/wcrf.png" alt="" title="" />
+                    </a>
+
+                </div>
+                <!-- End Portfolio Item  -->
+            </div>
+
+            <!--<div class="col-xs-12 col-sm-6 col-md-3">-->
+                <!--&lt;!&ndash; Start Portfolio Item &ndash;&gt;-->
+                <!--<div class = "associations">-->
+                    <!--<a href="http://www.wcrf-uk.org/" target="_blank">-->
+                        <!--<img src="img/associations/WCRF-Logo-Artwork_positive_web.png" alt="" title="" />-->
+                    <!--</a>-->
+
+                <!--</div>-->
+                <!--&lt;!&ndash; End Portfolio Item  &ndash;&gt;-->
+            <!--</div>-->
+<!--
+            <div class="col-xs-12 col-sm-6 col-md-3 col-sm-offset-3 col-md-offset-5">
+                &lt;!&ndash; Start Portfolio Item &ndash;&gt;
+                <div class = "associations">
+                    <a href="http://www.runnersneed.com/" target="_blank">
+                        <img src="img/associations/runners-need.png" alt="" title="" />
+                    </a>
+                    <div class="associationsquote hidden-xs">Earthmiles is a member</div>
+                </div>
+                &lt;!&ndash; End Portfolio Item  &ndash;&gt;
+            </div>
+-->
+        <!--Association Descriptions-->
+        </div>
+        <div class="row">
+            <!--<div class="col-xs-12 col-sm-6 col-md-3">-->
+                <!--&lt;!&ndash; Start Portfolio Item &ndash;&gt;-->
+                <!--<div class="associations">-->
+                    <!--<div class="associationsquote hidden-xs">We are working with NHS Choices to ensure that Earthmiles-->
+                        <!--is safe for your health and well-being-->
+                    <!--</div>-->
+                <!--</div>-->
+                <!--&lt;!&ndash; End Portfolio Item  &ndash;&gt;-->
+            <!--</div>-->
+            <div class="col-xs-12 col-sm-6 col-md-6">
+                <!-- Start Portfolio Item -->
+                <div class="associations">
+                    <div class="associationsquote hidden-xs">
+                        We have been endorsed by NHS Choices and featured in the NHS Choices Health Apps Library as a safe and healthy app.
+                    </div>
+                </div>
+                <!-- End Portfolio Item  -->
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-6">
+                <!-- Start Portfolio Item -->
+                <div class="associations">
+                    <div class="associationsquote hidden-xs">
+                        We are working with WCRF to give a new meaning to the word "giving" while simultaneously creating awareness of lifestyle measures to reduce preventable cancers.
+
+                    </div>
+                </div>
+                <!-- End Portfolio Item  -->
+            </div>
+
+            <!--<div class="col-xs-12 col-sm-6 col-md-3">-->
+                <!--&lt;!&ndash; Start Portfolio Item &ndash;&gt;-->
+                <!--<div class="associations">-->
+                    <!--<div class="associationsquote hidden-xs">We are working with World Cancer Research Fund to raise-->
+                        <!--awareness of life-style related cancer prevention-->
+                    <!--</div>-->
+                <!--</div>-->
+                <!--&lt;!&ndash; End Portfolio Item  &ndash;&gt;-->
+            <!--</div>-->
+
+        </div>
     </div>
 </section>
 <!-- Strategic Partners End-->
 
+<!-- Blog -->
+<section id="blog" class="section ">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="headline">
+                    <h1 class="section-title">Earthmiles Blog</h1>
+                    <p class="section-description">Curating the freshest, funnest content from across the world wide web to give you that little nudge in your quest for good health! Hop in and browse the latest stories.
+
+There will be a button "Visit Blog" Just under that, clicking on which takes the user to the blog, which is on a separate web page.
+
+The blog page should look the same as the rest of the website so needs re-programming, need to add the earthmiles logo on top etc.</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Blog -->
 <!-- IN THE PRESS BEGIN-->
 <!--<section id="press" class="section bg-grey-pattern">
     <div class="container">
@@ -498,6 +624,7 @@
                             </div>
                         </div>
                         <!-- End Testimonial #1  -->
+                        <!-- Testimonial #2  -->
                         <div class="item">
                             <div class="row">
                                 <div class="col-lg-12">
@@ -509,6 +636,8 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- End Testimonial #2  -->
+                        <!-- Testimonial #3  -->
                         <div class="item">
                             <div class="row">
                                 <div class="col-lg-12">
@@ -522,6 +651,8 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- End Testimonial #3  -->
+                        <!-- Testimonial #4  -->
                         <div class="item">
                             <div class="row">
                                 <div class="col-lg-12">
@@ -535,12 +666,45 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- End Testimonial #4  -->
+                        <!-- Testimonial #5  -->
+                        <div class="item">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="testimonial-inner">
+                                        <a href="#" target="_blank">
+                                            <img class="" src="img/media/runners.jpg" alt="" title="" />
+                                        </a>
+                                        <p>Named a "100 top things in running" in January 2015</p>
+                                        <small></small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Testimonial #5  -->
+                        <!-- Testimonial #6  -->
+                        <div class="item">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="testimonial-inner">
+                                        <a href="#" target="_blank">
+                                            <img class="" src="img/media/yourfitness.jpeg" alt="" title="" />
+                                        </a>
+                                        <p>Make the most of your session with new app, Earthmiles... We're sold!</p>
+                                        <small></small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Testimonial #6  -->
                     </div>
                     <ol class="carousel-indicators">
                         <li data-target="#testimonial" data-slide-to="0" class="active"></li>
                         <li data-target="#testimonial" data-slide-to="1"></li>
                         <li data-target="#testimonial" data-slide-to="2"></li>
                         <li data-target="#testimonial" data-slide-to="3"></li>
+                        <li data-target="#testimonial" data-slide-to="4"></li>
+                        <li data-target="#testimonial" data-slide-to="5"></li>
                     </ol>
                 </div>
             </div>
