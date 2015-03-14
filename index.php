@@ -75,7 +75,7 @@
                     <li><a href="#app">App</a></li>
                     <li><a href="#partners">Partners</a></li>
                     <li><a href="#associationspartners">Associations</a></li>
-                    <li><a href="#blog">Blog</a></li>
+                    <li><a href="http://earthmiles.co.uk/blog/">Blog</a></li>
                     <li><a href="#press">Press</a></li>
                     <li><a href="#services">About</a></li>
                     <li><a href="#contact">Contact</a></li>
@@ -514,8 +514,9 @@
 </section>
 <!-- Strategic Partners End-->
 
+
 <!-- Blog -->
-<section id="blog" class="section ">
+<!-- <section id="blog" class="section ">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -531,8 +532,10 @@ The blog page should look the same as the rest of the website so needs re-progra
             </div>
         </div>
     </div>
-</section>
+</section> -->
+
 <!-- End Blog -->
+
 <!-- IN THE PRESS BEGIN-->
 <!--<section id="press" class="section bg-grey-pattern">
     <div class="container">
