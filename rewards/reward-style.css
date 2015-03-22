@@ -1,0 +1,25 @@
+
+
+.section-description {
+    text-align: left;
+}
+
+
+
+.section-description img {
+
+    margin-bottom: 30px;
+    margin-top: 20px;
+
+}
+
+.bg-grey-pattern{
+    background: url(../img/grey-pattern.jpg);position: relative;
+}
+
+h2{
+    margin-top: 50px;
+
+    text-align: center;
+}
+
