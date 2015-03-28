@@ -6,12 +6,20 @@
 <html lang="en"> <!--<![endif]-->
 
 <head>
-	<meta charset="utf-8">
-	<title>Earthmiles</title>
-	<meta name="author" content="">
-	<meta name="keywords" content="">
-	<meta name="description" content="">
+    <meta charset="utf-8">
+    <title>Earthmiles - Earn rewards for fitness</title>
+    <meta name="author" content="">
+    <meta name="keywords" content="health, fitness, wellness, reward, lifestyle, discount, offer, running, walking, cycling, tracking, points, runkeeper, strava, mapmyride, mapmywalk, fitbit, jawbone, nike+, garmin">
+    <meta name="description" content="Track and be rewarded for your healthy and fit activities. Connect your fitness apps - RunKeeper, MapMyRun, MapMyRide, Strava, Garmin, Fitbit, JawBoneUp, Moves, Nike+ and more to automatically earn points for your fitness activities, and use them at our rewards centre to get rewards that would help you be more healthy">
 
+    <meta property="og:title" content="Earthmiles - Earn rewards for fitness"/>
+    <meta property="og:url" content="http://www.earthmiles.co.uk" />
+    <meta property="og:image" content="http://earthmiles.co.uk/img/logo/Earthmiles%20logo%20512px.png"/>
+    <meta property="og:site_name" content="Earthmiles - Earn rewards for fitness"/>
+    <meta property="og:type" content="Website"/>
+    <meta property="og:description" content="Track and be rewarded for your healthy and fit activities. Connect your fitness apps - RunKeeper, MapMyRun, MapMyRide, Strava, Garmin, Fitbit, JawBoneUp, Moves, Nike+ and more to automatically earn points for your fitness activities, and use them at our rewards centre to get rewards that would help you be more healthy"/>
+    <meta property="fb:app_id" content=“300134393484197" />
+    <meta property="fb:admins" content=“100000109274242, 2232512"/>
 	
 	<!-- Mobile Specific Metas -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">		
