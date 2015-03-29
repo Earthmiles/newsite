@@ -1243,7 +1243,7 @@ else
         var href_itunes = $("#itunes-app-link").attr('href');
         console.log(document.referrer);
         // clean referrer
-        var clean_referrer = url_domain(document.referrer.length);
+        var clean_referrer = url_domain(document.referrer);
 
         href_playstore = href_playstore.replace('website', clean_referrer);
         href_itunes = href_itunes.replace('website', clean_referrer);
