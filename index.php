@@ -123,10 +123,10 @@
                 <div class="row gaptp">
                     <div class="video-btn col-xs-12 col-sm-4 col-md-4"><a class="watch-video" data-toggle="modal" data-target="#myModal" href=""><span class="glyphicon glyphicon-play-circle"></span> Watch Our Video</a></div>
                     <div class="down-btn12 col-xs-12 col-sm-4 col-md-4">
-                        <a class="down-btn" href="http://app.appsflyer.com/id926440987?pid=website&c=mainpage"><img src="img/ios-download.png"></a>
+                        <a id="itunes-app-link" class="down-btn" href="http://app.appsflyer.com/id926440987?pid=website&c=mainpage"><img src="img/ios-download.png"></a>
                     </div>
                     <div class="down-btn12 col-xs-12 col-sm-4 col-md-4">
-                        <a class="down-btn" href="http://app.appsflyer.com/com.gmspartners.earthmiles?pid=website&c=mainpage">
+                        <a id="playstore-app-link" class="down-btn" href="http://app.appsflyer.com/com.gmspartners.earthmiles?pid=website&c=mainpage">
                             <img alt="Get it on Google Play"
                                  src="img/google-play-en@2x.png" />
                         </a>
@@ -1226,7 +1226,26 @@ else
     $(document).ready(function(){
         $('.carousel').carousel({
             interval: 10000
-        })
+        });
+
+        // handy function to get hostname from url
+        function url_domain(data) {
+          var    a      = document.createElement('a');
+                 a.href = data;
+          return a.hostname;
+        }
+
+        // adds the referrer to the playstore link
+        if (document.referrer) {
+            var href = $("#playstore-app-link").attr('href');
+            //console.log(href);
+            // clean referrer
+            var referrer = url_domain(document.referrer);
+
+            href = href.replace('website', referrer);
+            $("#playstore-app-link").attr('href', href);
+            $("#itunes-app-link").attr('href', href);
+        }
     });
 </script>
 <script type="text/javascript">
