@@ -1223,30 +1223,34 @@ else
     }
 </script>
 <script type="text/javascript">
+
     $(document).ready(function(){
         $('.carousel').carousel({
             interval: 10000
         });
-
-        // handy function to get hostname from url
-        function url_domain(data) {
-          var    a      = document.createElement('a');
-                 a.href = data;
-          return a.hostname;
-        }
-
-        // adds the referrer to the playstore link
-        if (document.referrer) {
-            var href = $("#playstore-app-link").attr('href');
-            //console.log(href);
-            // clean referrer
-            var referrer = url_domain(document.referrer);
-
-            href = href.replace('website', referrer);
-            $("#playstore-app-link").attr('href', href);
-            $("#itunes-app-link").attr('href', href);
-        }
     });
+ 
+    // handy function to get hostname from url
+    function url_domain(data) {
+      var    a      = document.createElement('a');
+             a.href = data;
+      return a.hostname;
+    }
+
+    // adds the referrer to the playstore link
+    if (document.referrer.length) {
+        var href_playstore = $("#playstore-app-link").attr('href');
+        var href_itunes = $("#itunes-app-link").attr('href');
+        console.log(document.referrer);
+        // clean referrer
+        var clean_referrer = url_domain(document.referrer.length);
+
+        href_playstore = href_playstore.replace('website', clean_referrer);
+        href_itunes = href_itunes.replace('website', clean_referrer);
+        $("#playstore-app-link").attr('href', href_playstore);
+        $("#itunes-app-link").attr('href', href_itunes);
+    }
+
 </script>
 <script type="text/javascript">
     // $(document).ready(function(){
