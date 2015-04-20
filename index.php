@@ -81,7 +81,7 @@
                     <li class="active"><a href="#header">Home</a></li>
                     <li><a href="#app">App</a></li>
                     <li><a href="#partners">Partners</a></li>
-                    <li><a href="#associationspartners">Associations</a></li>
+                    <li><a href="http://earthmiles.co.uk/rewards/">Rewards</a></li>
                     <li><a href="http://earthmiles.co.uk/blog/">Blog</a></li>
                     <li><a href="#press">Press</a></li>
                     <li><a href="#services">About</a></li>
