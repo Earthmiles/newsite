@@ -1,0 +1,195 @@
+<!doctype html>
+<html class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <title>Rewards | Earthmiles</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <link rel="shortcut icon" href="images/0d57d43c.favico.png">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="stylesheet" href="styles/ad4e422f.vendor.css">
+    <link rel="stylesheet" href="styles/b3216985.main.css">
+  </head>
+  <body>
+    <!--[if lt IE 10]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+
+    <div class="container">
+
+      <div class="starter-template">
+        <div id="site-logo">
+          
+          <div id="inner-header" class="clearfix">
+            <div id="site-heading">
+              <div id="site-logo"><a href="http://earthmiles.co.uk/blog/" title="Earthmiles" rel="home" style="float: left; margin-left: 20px;">
+                <img src="http://earthmiles.co.uk/blog/wp-content/uploads/2015/03/logo1.png" alt="Earthmiles" scale="0"></a></div>
+              </div>
+          </div>
+
+          <div id="social-media" class="clearfix">
+            <a href="http://www.facebook.com/earthmiles/" class="social-fb" title="http://www.facebook.com/earthmiles/">Facebook</a>
+            <a href="http://www.twitter.com/@_earthmiles/" class="social-tw" title="http://www.twitter.com/@_earthmiles/">Twitter</a>
+            <a href="https://www.youtube.com/watch?v=YIhNqpFNQLw" class="social-yt" title="https://www.youtube.com/watch?v=YIhNqpFNQLw">Youtube</a>
+            <a href="mailto:hello@earthmiles.co.uk" class="social-em" title="mailto:hello@earthmiles.co.uk">Email</a>            
+         </div>
+
+          <nav id="access" role="navigation">
+            <div class="menu">
+              <div id="menu-icon">Menu</div>
+              <ul id="menu-main-menu" class="menu">
+                <li id="menu-item-24" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-24"><a href="http://earthmiles.co.uk/blog/">Blog</a></li>
+                <li id="menu-item-151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151"><a href="http://www.earthmiles.co.uk/">Earthmiles Home</a></li>
+              </ul>
+            </div>   
+          </nav>
+
+        <div id="cards-container"></div>        
+
+        <img src="images/7466d05b.ajax-loader.gif" class="ajax-loader">
+      </div>
+
+    </div><!-- /.container -->
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+          </div>
+          <div class="modal-body">
+            <div style="position: relative; left: 0; top: 0;">
+              <img id="reward-logo" class="img-responsive" style="position: relative; top: 0; left: 0"; />
+              <img id="reward-partner-logo" class="img-responsive" style="position: absolute; top: 4px; left: 8px; height: 20%"; />
+            </div>
+
+            <br />
+
+            <p id="reward-description"></p>
+            <p id="highlights"></p>
+            <p id="validity"></p>
+            <p id="location"></p>
+            <p id="timing"></p>
+          </div>
+          <div class="modal-footer">
+            <div class="row">
+              <div class="col-xs-4">
+                <a id="itunes-app-link" class="down-btn" href="http://app.appsflyer.com/id926440987?pid=rewards_website&c=mainpage">
+                  <img class="download-logo" src="http://earthmiles.co.uk/img/ios-download.png">
+                </a>
+              </div>
+              <div class="col-xs-4">
+                <a id="playstore-app-link" class="down-btn" href="http://app.appsflyer.com/com.gmspartnersltd.earthmiles?pid=rewards_website&c=mainpage">
+                  <img class="download-logo" alt="Get it on Google Play" src="http://earthmiles.co.uk/img/google-play-en@2x.png">
+                </a>
+              </div>
+              <div class="pull-right close-button">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="scripts/37e0d238.vendor.js"></script>
+
+    <script src="https://fb.me/react-0.13.1.min.js"></script>
+    <script src="https://fb.me/JSXTransformer-0.13.1.js"></script>
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <script>
+      (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+      function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+      e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+      e.src='//www.google-analytics.com/analytics.js';
+      r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+      ga('create','UA-XXXXX-X');ga('send','pageview');
+    </script>
+
+    <script src="scripts/cb7562c6.plugins.js"></script>
+
+
+
+    <script type="text/jsx">
+      var RewardCard = React.createClass({
+        handleClick: function(event) {
+          $("#myModalLabel").text(this.props.reward.reward_partner.name);
+          $("#reward-logo").attr("src", this.props.reward.image_320x280);
+          $("#reward-partner-logo").attr("src", this.props.reward.reward_partner.image);
+
+          $("#reward-description").text(this.props.reward.short_description);
+          $("#highlights").text(this.props.reward.highlights);
+          $("#location").text(this.props.reward.location);
+          $("#myModal").modal();
+        },
+        render: function() {
+          return (
+            <div className="rewardsCard" onClick={this.handleClick} style={{cursor: "pointer"}}>
+              <div className="col-md-4">
+                <div className="panel panel-default">
+                  <div className="panel-heading clearfix">
+                    <h3 className="panel-title pull-left card-reward-partner">{ this.props.reward.reward_partner.name }</h3>
+                  </div>
+                  <div className="panel-body">
+                    <div style={{position: "relative", left: 0, top: 0}}>
+                      <img src={this.props.reward.image_320x280} className="img-responsive" style={{position: "relative", top: 0, left: 0}} />
+                      <img src={this.props.reward.reward_partner.image} className="img-responsive" style={{position: "absolute", top: "4px", left: "8px", height: "20%" }} />
+                    </div>
+                    <br />
+                    <p className="card-description">Points: {this.props.reward.points} &nbsp;&nbsp;&nbsp;&nbsp; {this.props.reward.pound_value_text} </p>
+                  </div>
+                  <div className="panel-footer">
+                    <p className="card-title">{this.props.reward.short_description}</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          );
+        }
+      });
+
+      var RewardList = React.createClass({
+        render: function() {
+          var rewardNodes = this.props.rewards.map(function (reward) {
+            return (
+              <RewardCard reward={reward}></RewardCard>
+            );
+          });
+          return (
+            <div className="RewardList">
+              {rewardNodes}
+            </div>
+          );
+        }
+      });
+
+      $(document).ready(function() {
+        function render_rewards(rewards) {
+          React.render(
+            <RewardList rewards={rewards} />,
+            document.getElementById("cards-container")
+          );
+        }
+
+        // fetch rewards
+        $.ajax({
+          method: 'GET',
+          url: 'https://app.earthmiles.co.uk/api/v1/rewards/all_rewards/?format=json',
+          data: {}
+        }).done(function( data ) {
+          //console.log(data);
+          $('.ajax-loader').hide();
+          render_rewards(data.results);
+
+        });
+
+      });
+    </script>
+
+</body>
+</html>
