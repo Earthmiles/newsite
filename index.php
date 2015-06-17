@@ -1119,6 +1119,14 @@ else
                 <!-- <div class="col-lg-6 col-sm-6">
                     <p class="copyright">Made with <i class="fa fa-heart"></i> by <a href="http://www.simplesphere.net">Simplesphere</a></p>
                 </div> -->
+
+
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <a href="https://mixpanel.com/f/partner"><img src="//cdn.mxpnl.com/site_media/images/partner/badge_light.png" alt="Mobile Analytics" /></a>
+
+                </div>
             </div>
         </div>
 </footer>
