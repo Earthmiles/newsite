@@ -19,7 +19,8 @@
     <meta property="og:type" content="Website"/>
     <meta property="og:description" content="Track and be rewarded for your healthy and fit activities. Connect your fitness apps - RunKeeper, MapMyRun, MapMyRide, Strava, Garmin, Fitbit, JawBoneUp, Moves, Nike+ and more to automatically earn points for your fitness activities, and use them at our rewards centre to get rewards that would help you be more healthy"/>
 
-
+	<link rel="icon" href="images/0d57d43c.favico.png" type="image/x-icon" />
+	
     <!-- Mobile Specific Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
