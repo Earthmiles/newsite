@@ -108,7 +108,7 @@
                 </ul>
                 <ul class="hdr-social list-inline">
                     <li class="facebook"> <a href="https://facebook.com/earthmiles"> <i class="fa fa-facebook"></i> </a> </li>
-                    <li class="twitter"> <a href="https://twitter.com/_Earthmiles"> <i class="fa fa-twitter"></i> </a> </li>
+                    <li class="twitter"> <a href="https://twitter.com/Earthmiles_"> <i class="fa fa-twitter"></i> </a> </li>
                     <li class="facebook"> <a data-target="#mailModal" data-toggle="modal" href="#"> <i class="fa fa-envelope-o"></i> </a> </li>
 
                 </ul>
