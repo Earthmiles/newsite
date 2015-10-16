@@ -1073,7 +1073,7 @@ else
         <!-- Start  Social Links -->
         <ul>
             <li class="facebook"> <a href="https://facebook.com/earthmiles"> <i class="fa fa-facebook"></i> </a> </li>
-            <li class="twitter"> <a href="https://twitter.com/_Earthmiles"> <i class="fa fa-twitter"></i> </a> </li>
+            <li class="twitter"> <a href="https://twitter.com/Earthmiles_"> <i class="fa fa-twitter"></i> </a> </li>
             <li class="facebook"> <a href="#" data-toggle="modal" data-target="#mailModal"> <i class="fa fa-envelope-o"></i> </a> </li>
             <!--<li class="google-plus"> <a href="#"> <i class="fa fa-google-plus"></i> </a> </li>-->
 
