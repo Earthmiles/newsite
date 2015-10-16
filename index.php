@@ -140,11 +140,11 @@
                     Track your healthy activities.<br/> Win rewards.
                 </h4>
                 <div class="row gaptp">
-                    <div class="video-btn col-xs-12 col-sm-4 col-md-4"><a class="watch-video" data-toggle="modal" data-target="#myModal" href=""><span class="glyphicon glyphicon-play-circle"></span> Watch Our Video</a></div>
-                    <div class="down-btn12 col-xs-12 col-sm-4 col-md-4">
+                    <!--<div class="video-btn col-xs-12 col-sm-4 col-md-4"><a class="watch-video" data-toggle="modal" data-target="#myModal" href=""><span class="glyphicon glyphicon-play-circle"></span> Watch Our Video</a></div>-->
+                    <div class="down-btn12 col-xs-12 col-sm-4 col-md-4 col-md-offset-1 col-sm-offset-1">
                         <a id="itunes-app-link" class="down-btn" href="http://app.appsflyer.com/id926440987?pid=website&c=mainpage"><img src="img/ios-download.png"></a>
                     </div>
-                    <div class="down-btn12 col-xs-12 col-sm-4 col-md-4">
+                    <div class="down-btn12 col-xs-12 col-sm-4 col-md-4 col-md-offset-2 col-sm-offset-2">
                         <a id="playstore-app-link" class="down-btn" href="http://app.appsflyer.com/com.gmspartnersltd.earthmiles?pid=website&c=mainpage">
                             <img alt="Get it on Google Play"
                                  src="img/google-play-en@2x.png" />
