@@ -49,6 +49,7 @@ Classes
     margin-bottom: 20px;
     margin-top: 20px;
     font-weight: bold;
+    font-size: 20px;
 
 }
 
@@ -464,7 +465,7 @@ a.scroll-up:focus { -moz-transform: scale(1.1, 1.1); -ms-transform: scale(1.1, 1
 }#demo5-btn {
     padding-top: 10px;
     position: absolute;
-    top: 62%;
+    top: 50%;
     width: 99.5%;
 }#demo5-btn button {
     background: #00A8D6;
@@ -528,6 +529,7 @@ a.scroll-up:focus { -moz-transform: scale(1.1, 1.1); -ms-transform: scale(1.1, 1
 @media only screen and (max-width: 1250px) {
     #demo5-btn {
         width: 100%;
+        top: 50%;
     }
 
     .scroll-img ul li {
@@ -541,7 +543,7 @@ a.scroll-up:focus { -moz-transform: scale(1.1, 1.1); -ms-transform: scale(1.1, 1
     }
 
     #demo5-btn {
-        top: 62%;
+        top: 50%;
     }
 }
 
@@ -563,7 +565,7 @@ a.scroll-up:focus { -moz-transform: scale(1.1, 1.1); -ms-transform: scale(1.1, 1
     }
 
     #demo5-btn {
-        top: 63%
+        top: 50%
     }
 
     .scroll-img ul li {
@@ -728,7 +730,7 @@ a.scroll-up:focus { -moz-transform: scale(1.1, 1.1); -ms-transform: scale(1.1, 1
     }
 
     #demo5-btn {
-        top: 65%;
+        top: 50%;
     }
 
     .scroll-img {
@@ -762,7 +764,7 @@ a.scroll-up:focus { -moz-transform: scale(1.1, 1.1); -ms-transform: scale(1.1, 1
     }
 
     #demo5-btn {
-        top: 70%;
+        top: 50%;
     }
 
     .scroll-img ul li {
@@ -872,7 +874,7 @@ a.scroll-up:focus { -moz-transform: scale(1.1, 1.1); -ms-transform: scale(1.1, 1
     }
 
     #demo5-btn {
-        top: 63%;
+        top: 50%;
     }
 
     .scroll-img ul li {
