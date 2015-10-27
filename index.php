@@ -243,13 +243,13 @@
                             <div class="screens ">
                                 <ul>
                                     <li>
-                                        <img class="screen one" src="img/app/iphone-fitness-apps.gif" alt="" />
+                                        <img class="screen one" src="img/app/iphone-fitness-apps.png" alt="" />
                                     </li>
                                     <li>
-                                        <img class="screen two" src="img/app/iphone-me-page.gif" alt="" />
+                                        <img class="screen two" src="img/app/iphone-me-page.png" alt="" />
                                     </li>
                                     <li>
-                                        <img class="screen three" src="img/app/iphone-rewards.gif" alt="" />
+                                        <img class="screen three" src="img/app/iphone-rewards.png" alt="" />
                                     </li>
                                 </ul>
                             </div>
@@ -281,45 +281,56 @@
 
             <div id="demo5" class="scroll-img">
                 <ul>
-                    <li><a href="http://evolvewellnesscentre.com/" target="_blank"><img src="img/partners/evolve.png"></a></li>
-                    <li><a href="http://bellakinesis.com/" target="_blank"><img src="img/partners/bella_kinesis.png"></a></li>
-                    <li><a href="http://www.fwsuperfoodsuk.com/" target="_blank"><img src="img/partners/freshwheatgrass.png"></a></li>
-                    <li><a href="http://www.noshdetox.com/" target="_blank"><img src="img/partners/nosh.png"></a></li>
-                    <li><a href="http://gokhalemethod.com/" target="_blank"><img src="img/partners/gokhale.png"></a></li>
-                    <li><a href="http://www.factorylondon.com/" target="_blank"><img src="img/partners/factory_gym.png"></a></li>
-                    <li><a href="http://www.zephorium.co.uk/" target="_blank"><img src="img/partners/zephorium.png"></a></li>
-                    <li><a href="http://www.prettyathletic.com/" target="_blank"><img src="img/partners/pretty_athletic.png"></a></li>
-                    <li><a href="http://www.dandeliononline.co.uk/" target="_blank"><img src="img/partners/dandelion.png"></a></li>
-                    <li><a href="http://www.naturalbalancefoods.co.uk/nakd/" target="_blank"><img src="img/partners/nakd.png"></a></li>
-                    <li><a href="http://www.salsateca.co.uk/" target="_blank"><img src="img/partners/salsateca.png"></a></li>
-                    <li><a href="http://laborganic.co.uk/" target="_blank"><img src="img/partners/laborganic.png"></a></li>
-                    <li><a href="http://radiancecleanse.com/" target="_blank"><img src="img/partners/radiance_cleanse.png"></a></li>
-                    <li><a href="http://www.retreatcafe.com/" target="_blank"><img src="img/partners/retreat_cafe.png"></a></li>
-                    <li><a href="http://sativashakes.com/" target="_blank"><img src="img/partners/sativa_shakes.png"></a></li>
-                    <li><a href="http://pagetandcoles.com/" target="_blank"><img src="img/partners/paget_cole.png"></a></li>
-                    <li><a href="http://www.bootcamppilates.com/" target="_blank"><img src="img/partners/bootcamp_pilates.png"></a></li>
-                    <li><a href="http://www.purifynecleanse.com/" target="_blank"><img src="img/partners/purifyne_cleanse.png"></a></li>
                     <li><a href="http://www.planetorganic.com/" target="_blank"><img src="img/partners/planet_organic.png"></a></li>
-                    <li><a href="http://www.chilondon.com/" target="_blank"><img src="img/partners/chi.png"></a></li>
-                    <!--<li><a href="http://soulmatefood.com/" target="_blank"><img src="img/partners/soulmate_food.png"></a></li>-->
-                    <li><a href="http://www.clubbercise.com/" target="_blank"><img src="img/partners/clubbexercise.png"></a></li>
-                    <li><a href="http://www.chirunning.com/" target="_blank"><img src="img/partners/chirunning.png"></a></li>
-                    <li><a href="http://www.cyclingveg.com/" target="_blank"><img src="img/partners/morefit.png"></a></li>
-                    <!--<li><a href="http://www.juicetonic.com/" target="_blank"><img src="img/partners/juicetonic.png"></a></li>-->
+                    <li><a href="http://www.bootcamppilates.com/" target="_blank"><img src="img/partners/bootcamp_pilates.png"></a></li>
                     <li><a href="http://www.runnersneed.com/" target="_blank"><img src="img/partners/runners-need1.png"></a></li>
-                    <li><a href="http://www.terra-nova.co.uk/" target="_blank"><img src="img/partners/terranova.png"></a></li>
-                    <li><a href="http://www.londoninsaniacs.co.uk/" target="_blank"><img src="img/partners/insaniacs.png"></a></li>
-                    <!--<li><a href="http://pureyogazone.com/" target="_blank"><img src="img/partners/purezone.png"></a></li>-->
-                    <li><a href="http://www.cyclingveg.com/" target="_blank"><img src="img/partners/cyclingveg.png"></a></li>
-                    <li><a href="http://www.fitnessfoodscompany.co.uk/" target="_blank"><img src="img/partners/fitnessfoodsco.png"></a></li>
-                    <li><a href="http://www.finnberry.co.uk/" target="_blank"><img src="img/partners/finnberry.png"></a></li>
-                    <li><a href="http://www.polar.com/" target="_blank"><img src="img/partners/polar.png"></a></li>
-                    <li><a href="http://lifeboxfood.com/" target="_blank"><img src="img/partners/lifebox.png"></a></li>
-                    <li><a href="http://www.rebel-kitchen.com/" target="_blank"><img src="img/partners/rebelkitchen.png"></a></li>
-                    <li><a href="http://www.edgecycle.co.uk/" target="_blank"><img src="img/partners/edgecycle.png"></a></li>
-                    <li><a href="http://www.igniterhive.com/" target="_blank"><img src="img/partners/igniterhive.png"></a></li>
-                    <li><a href="http://thatgirllondon.com/" target="_blank"><img src="img/partners/thatgirl.png"></a></li>
-                    <li><a href="http://sosrehydrate.com/" target="_blank"><img src="img/partners/sosrehydrate.png"></a></li>
+                    <li><a href="http://www.therawchocolatecompany.com/" target="_blank"><img src="img/partners/raw_chocolate.png"></a></li>
+                    <li><a href="http://www.naturalbalancefoods.co.uk/nakd/" target="_blank"><img src="img/partners/nakd.png"></a></li>
+                    <li><a href="https://www.movegb.com/" target="_blank"><img src="img/partners/movegb.png"></a></li>
+                    <li><a href="http://www.pulsin.co.uk/" target="_blank"><img src="img/partners/pulsin-logo.png"></a></li>
+                    <li><a href="http://kitbox.co/" target="_blank"><img src="img/partners/kitbox.png"></a></li>
+
+
+
+                    <!--<li><a href="http://evolvewellnesscentre.com/" target="_blank"><img src="img/partners/evolve.png"></a></li>-->
+                    <!--<li><a href="http://bellakinesis.com/" target="_blank"><img src="img/partners/bella_kinesis.png"></a></li>-->
+                    <!--<li><a href="http://www.fwsuperfoodsuk.com/" target="_blank"><img src="img/partners/freshwheatgrass.png"></a></li>-->
+                    <!--<li><a href="http://www.noshdetox.com/" target="_blank"><img src="img/partners/nosh.png"></a></li>-->
+                    <!--<li><a href="http://gokhalemethod.com/" target="_blank"><img src="img/partners/gokhale.png"></a></li>-->
+                    <!--<li><a href="http://www.factorylondon.com/" target="_blank"><img src="img/partners/factory_gym.png"></a></li>-->
+                    <!--<li><a href="http://www.zephorium.co.uk/" target="_blank"><img src="img/partners/zephorium.png"></a></li>-->
+                    <!--<li><a href="http://www.prettyathletic.com/" target="_blank"><img src="img/partners/pretty_athletic.png"></a></li>-->
+                    <!--<li><a href="http://www.dandeliononline.co.uk/" target="_blank"><img src="img/partners/dandelion.png"></a></li>-->
+
+                    <!--<li><a href="http://www.salsateca.co.uk/" target="_blank"><img src="img/partners/salsateca.png"></a></li>-->
+                    <!--<li><a href="http://laborganic.co.uk/" target="_blank"><img src="img/partners/laborganic.png"></a></li>-->
+                    <!--<li><a href="http://radiancecleanse.com/" target="_blank"><img src="img/partners/radiance_cleanse.png"></a></li>-->
+                    <!--<li><a href="http://www.retreatcafe.com/" target="_blank"><img src="img/partners/retreat_cafe.png"></a></li>-->
+                    <!--<li><a href="http://sativashakes.com/" target="_blank"><img src="img/partners/sativa_shakes.png"></a></li>-->
+                    <!--<li><a href="http://pagetandcoles.com/" target="_blank"><img src="img/partners/paget_cole.png"></a></li>-->
+
+                    <!--<li><a href="http://www.purifynecleanse.com/" target="_blank"><img src="img/partners/purifyne_cleanse.png"></a></li>-->
+
+                    <!--<li><a href="http://www.chilondon.com/" target="_blank"><img src="img/partners/chi.png"></a></li>-->
+                    <!--&lt;!&ndash;<li><a href="http://soulmatefood.com/" target="_blank"><img src="img/partners/soulmate_food.png"></a></li>&ndash;&gt;-->
+                    <!--<li><a href="http://www.clubbercise.com/" target="_blank"><img src="img/partners/clubbexercise.png"></a></li>-->
+                    <!--<li><a href="http://www.chirunning.com/" target="_blank"><img src="img/partners/chirunning.png"></a></li>-->
+                    <!--<li><a href="http://www.cyclingveg.com/" target="_blank"><img src="img/partners/morefit.png"></a></li>-->
+                    <!--&lt;!&ndash;<li><a href="http://www.juicetonic.com/" target="_blank"><img src="img/partners/juicetonic.png"></a></li>&ndash;&gt;-->
+
+                    <!--<li><a href="http://www.terra-nova.co.uk/" target="_blank"><img src="img/partners/terranova.png"></a></li>-->
+                    <!--<li><a href="http://www.londoninsaniacs.co.uk/" target="_blank"><img src="img/partners/insaniacs.png"></a></li>-->
+                    <!--&lt;!&ndash;<li><a href="http://pureyogazone.com/" target="_blank"><img src="img/partners/purezone.png"></a></li>&ndash;&gt;-->
+                    <!--<li><a href="http://www.cyclingveg.com/" target="_blank"><img src="img/partners/cyclingveg.png"></a></li>-->
+                    <!--<li><a href="http://www.fitnessfoodscompany.co.uk/" target="_blank"><img src="img/partners/fitnessfoodsco.png"></a></li>-->
+                    <!--<li><a href="http://www.finnberry.co.uk/" target="_blank"><img src="img/partners/finnberry.png"></a></li>-->
+                    <!--<li><a href="http://www.polar.com/" target="_blank"><img src="img/partners/polar.png"></a></li>-->
+                    <!--<li><a href="http://lifeboxfood.com/" target="_blank"><img src="img/partners/lifebox.png"></a></li>-->
+                    <!--<li><a href="http://www.rebel-kitchen.com/" target="_blank"><img src="img/partners/rebelkitchen.png"></a></li>-->
+                    <!--<li><a href="http://www.edgecycle.co.uk/" target="_blank"><img src="img/partners/edgecycle.png"></a></li>-->
+                    <!--<li><a href="http://www.igniterhive.com/" target="_blank"><img src="img/partners/igniterhive.png"></a></li>-->
+                    <!--<li><a href="http://thatgirllondon.com/" target="_blank"><img src="img/partners/thatgirl.png"></a></li>-->
+                    <!--<li><a href="http://sosrehydrate.com/" target="_blank"><img src="img/partners/sosrehydrate.png"></a></li>-->
 
 
 
@@ -334,6 +345,13 @@
             <div id="demo5-btn" class="text-center">
                 <button class="btn" id="demo5-backward"><i class="fa fa-chevron-left"></i></button>
                 <button class="btn" id="demo5-forward"><i class="fa fa-chevron-right"></i></button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div>
+                    <p class="reward-partner-suffix"><a href="/rewards">.. and over 200 more ..</a> </p>
+                </div>
             </div>
         </div>
     </div>

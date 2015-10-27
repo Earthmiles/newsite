@@ -44,6 +44,18 @@ Classes
 	.headline p {margin-bottom: 20px;}
     /*som changed from 50px to 20px*/
 
+.reward-partner-suffix {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-weight: bold;
+
+}
+
+
+
+/*som changed from 50px to 20px*/
+
 .white h1 {color: #FFF;}
 .white p {color: #FFF;}
 
