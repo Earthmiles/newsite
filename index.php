@@ -162,8 +162,8 @@
                 <h2>It's simple</h2>
                 <h4>Live pure.&nbsp;&nbsp;Get earthmiles.<br/> Win rewards.</h4>
                 <div class="row gaptp">
-                    <div class="video-btn col-xs-12 col-sm-4 col-md-4"><a class="watch-video" data-toggle="modal" data-target="#myModal" href=""><span class="glyphicon glyphicon-play-circle"></span> Watch Our Video</a></div>
-                    <div class="down-btn12 col-xs-12 col-sm-4 col-md-4">
+<!--                     <div class="video-btn col-xs-12 col-sm-4 col-md-4"><a class="watch-video" data-toggle="modal" data-target="#myModal" href=""><span class="glyphicon glyphicon-play-circle"></span> Watch Our Video</a></div>
+ -->                    <div class="down-btn12 col-xs-12 col-sm-4 col-md-4">
                         <a id="itunes-app-link" class="down-btn" href="http://app.appsflyer.com/id926440987?pid=website&c=mainpage"><img src="img/ios-download.png"></a>
                     </div>
                     <div class="down-btn12 col-xs-12 col-sm-4 col-md-4">
